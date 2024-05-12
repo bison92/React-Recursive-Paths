@@ -1,0 +1,114 @@
+{
+    "id": "0",
+    "name": "Catalog A",
+    "children": [
+        {
+            "id": "a",
+            "name": "Chairs",
+            "image": "",
+            "children": [
+                {
+                    "id": "aa",
+                    "name": "Executive Chairs",
+                    "image": "",
+                    "children": [
+                        {
+                            "id": "aaa",
+                            "name": "Fern",
+                            "image": "",
+                            "keywords": "chair executive ergonomic fern leather",
+                            "children": []
+                        },
+                        {
+                            "id": "aab",
+                            "name": "Zody",
+                            "image": "",
+                            "keywords": "chair ergonomic zody leather",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "ab",
+                    "name": "Task Chairs",
+                    "image": "",
+                    "children": [
+                        {
+                            "id": "aba",
+                            "name": "Very",
+                            "image": "",
+                            "keywords": "chair task very",
+                            "children": []
+                        },
+                        {
+                            "id": "abb",
+                            "name": "Soji",
+                            "image": "",
+                            "keywords": "chair task very",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "b",
+            "name": "Desks",
+            "image": "",
+            "children": [
+                {
+                    "id": "ba",
+                    "name": "Desks",
+                    "image": "",
+                    "keywords": "chair task very",
+                    "children": [
+                        {
+                            "id": "baa",
+                            "name": "Hiya",
+                            "image": "",
+                            "keywords": "hiya workstation desk",
+                            "children": []
+                        },
+                        {
+                            "id": "bab",
+                            "name": "Tibas",
+                            "image": "",
+                            "keywords": "tibas workstation desk",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "bb",
+                    "name": "6-seaters",
+                    "image": "",
+                    "keywords": "chair task very",
+                    "children": [
+                        {
+                            "id": "bba",
+                            "name": "Tibas",
+                            "image": "",
+                            "keywords": "tibas workstation desk 6 six seater",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "bc",
+                    "name": "workstation",
+                    "image": "",
+                    "keywords": "chair task very",
+                    "children": [
+                        {
+                            "id": "bca",
+                            "name": "some workstation",
+                            "image": "",
+                            "keywords": "tibas workstation desk 6 six seater",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
