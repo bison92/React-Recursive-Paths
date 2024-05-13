@@ -16,14 +16,14 @@
                             "id": "aaa",
                             "name": "Fern",
                             "image": "",
-                            "keywords": "chair executive ergonomic fern leather",
+                            "keywords": "chair executive ergonomic fern leather Fern",
                             "children": []
                         },
                         {
                             "id": "aab",
                             "name": "Zody",
                             "image": "",
-                            "keywords": "chair ergonomic zody leather",
+                            "keywords": "chair ergonomic zody leather Zody",
                             "children": []
                         }
                     ]
